@@ -48,6 +48,21 @@ This project successfully demonstrates methods for reducing power consumption in
 ## Screenshots
 
 
-![WhatsApp Image 2025-05-13 at 17 49 31](https://github.com/user-attachments/assets/6dd77009-491e-4d8d-b410-455a4aba9d06)
+![Screenshot 2025-06-14 082326](https://github.com/user-attachments/assets/2dd6b535-13f9-4376-936f-ac1bd7cd2bf8)
+![Screenshot 2025-06-14 082539](https://github.com/user-attachments/assets/c04d1bc8-880e-4f12-b485-1f44711f1c87)
+![Screenshot 2025-06-14 082609](https://github.com/user-attachments/assets/d0831d29-c428-4874-855c-6048237972db)
+![Screenshot 2025-06-14 082716](https://github.com/user-attachments/assets/6b8e10f1-c961-44ff-a5f9-1decc6395232)
+![Screenshot 2025-06-14 082744](https://github.com/user-attachments/assets/dc366b43-2e51-4765-a46a-4cc3c372bdef)
+![Screenshot 2025-06-14 082806](https://github.com/user-attachments/assets/080a2cc3-901f-4b0c-a295-24fb3c619be1)
+![Screenshot 2025-06-14 082922](https://github.com/user-attachments/assets/b2d0db0f-7c35-4569-92da-486ab3ecb139)
+![Screenshot 2025-06-14 082945](https://github.com/user-attachments/assets/84a49de3-960a-46a8-bbea-21b85ec89afc)
+
+
+
+
+
+
+
+
 
 
